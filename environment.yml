@@ -1,0 +1,11 @@
+name: proj-aplicado-iv
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - jupyter
+  - pandas
+  - seaborn
+  - statsmodels
+  - scikit-learn
